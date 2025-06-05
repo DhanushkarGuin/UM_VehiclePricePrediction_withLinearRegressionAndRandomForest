@@ -1,0 +1,24 @@
+Categorical Columns:
+make
+model
+engine
+fuel
+transmission
+trim
+body
+exterior_color
+interior_color
+drivetrain
+
+Numeric Columns:
+year
+price
+cylinders
+mileage
+doors
+
+['make', 'model', 'year', 'engine', 'cylinders', 'fuel',     
+       'mileage', 'transmission', 'trim', 'body', 'doors', 'exterior_color',
+       'interior_color', 'drivetrain']
+
+OneHotEncoding Column Numbers: 0 1 3 5 7 8 9 10 11 12 13
